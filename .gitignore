@@ -1,6 +1,8 @@
 # Data files
 downloads/rxivist/rxivist.backup
 downloads/unpaywall/unpaywall_snapshot_*.jsonl.gz
+downloads/scihub/*.tab.xz
+downloads/scihub/scihub-logs_2015-09_2016-02.tsv.xz
 
 .vscode
 .ipynb_checkpoints/
