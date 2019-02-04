@@ -1,5 +1,6 @@
 # Data files
 downloads/rxivist/rxivist.backup
+downloads/unpaywall/unpaywall_snapshot_*.jsonl.gz
 
 .vscode
 .ipynb_checkpoints/
