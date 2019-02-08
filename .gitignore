@@ -6,3 +6,4 @@ downloads/scihub/scihub-logs_2015-09_2016-02.tsv.xz
 
 .vscode
 .ipynb_checkpoints/
+__pycache__/
